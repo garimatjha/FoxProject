@@ -24,6 +24,8 @@ Run the  FoxTestCases.java file after saving the project in the above mentioned 
 
 3. As this was a small project with limited tests to run on a page, I created a class for all fox tabs instead of creating a class for each tab seperately. This removes a lot of redundancy and also scable for other projects.
 
+4. One can directly see the output in the foxshows.xls from the output folder.
+
  
 
 
